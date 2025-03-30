@@ -1,0 +1,1 @@
+# nginx-proxy-manager-self-hosting
